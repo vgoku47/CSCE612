@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/25847714/README.md)
-# CSCE 612 — Computer Networks
+# CSCE 612 — Homework Projects
 
 Projects completed for **CSCE 612: Networks & Distributed Processing** at Texas A&M University, Spring 2026.
 
