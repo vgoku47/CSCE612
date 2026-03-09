@@ -1,0 +1,16 @@
+﻿  main.cpp
+  message.cpp
+D:\trash\dummy\HW2\HW2CSCE612\message.cpp(19,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\trash\dummy\HW2\HW2CSCE612\message.cpp(61,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\trash\dummy\HW2\HW2CSCE612\message.cpp(82,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      D:\trash\dummy\HW2\HW2CSCE612\message.cpp(82,10):
+      consider using '%zd' in the format string
+  
+  socket.cpp
+D:\trash\dummy\HW2\HW2CSCE612\socket.cpp(73,25): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+D:\trash\dummy\HW2\HW2CSCE612\socket.cpp(111,27): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HW2CSCE612.vcxproj -> D:\trash\dummy\HW2\HW2CSCE612\x64\Release\HW2CSCE612.exe
